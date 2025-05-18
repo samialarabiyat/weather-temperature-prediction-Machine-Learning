@@ -24,12 +24,6 @@ This project demonstrates various regression models to predict temperature based
 
 ## 🧪 How to Run
 1. Clone the repo
-2. Run the notebook (`weather_regression_models.ipynb`)
+2. Run the notebook (`______.ipynb`)
 3. All results and plots are generated automatically.
-
-## 🔧 Requirements
-See `requirements.txt` for package installation.
-
-## 📜 License
-MIT License
 
